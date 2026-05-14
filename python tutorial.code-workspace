@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+				"python.defaultInterpreterPath": "/Users/jimo/venv/bin/python3.12",
+        "python.terminal.activateEnvironment": true
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+
+
+		]
+	}
+}
