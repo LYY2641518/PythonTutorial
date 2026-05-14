@@ -1,0 +1,20 @@
+# 虛擬環境
+.venv/
+
+# Python 快取
+__pycache__/
+*.pyc
+
+# pytest
+.pytest_cache/
+
+# VSCode
+.vscode/
+*.code-workspace
+# build / packaging
+build/
+dist/
+*.egg-info/
+
+# macOS
+.DS_Store
